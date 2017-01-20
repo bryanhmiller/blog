@@ -12,8 +12,8 @@ X A different background color.
 X A different font family.
 X A different font size.
 X A different font color.
-A different line height.
-A different padding value.
+x A different line height.
+X A different padding value.
 Each should have a border, but with rounded corners of different size 
 (e.g. one article could have barely rounded borders, but the next one 
 could be almost circular in shape)
@@ -25,6 +25,7 @@ could be almost circular in shape)
 	font-size: 0.65em;	
 	color: white;
 	line-height: 1.3em;
+	padding: 0 20px;
 }
 .one {
 	background: #F5B8D5;
@@ -32,6 +33,7 @@ could be almost circular in shape)
 	font-size: 0.65em;
 	color: white;
 	line-height: 1.3em;
+	padding: 0 20px;
 }
 
 
@@ -41,6 +43,7 @@ could be almost circular in shape)
 	font-size: 1.2em;
 	color: black;
 	line-height: 1.2em;
+	padding: 30px;
 }
 
 .three {
@@ -49,6 +52,7 @@ could be almost circular in shape)
 	font-size: 0.9em;
 	color: #F7EC0D;
 	line-height: 1.1em;
+	padding: 10px 25px;
 }
 
 .four {
@@ -57,6 +61,7 @@ could be almost circular in shape)
 	font-size: 0.95em;
 	color: #3F0DF7;
 	line-height: 2em;
+	padding: 10px 20px 30px 40px;
 }
 
 .five {
@@ -65,4 +70,5 @@ could be almost circular in shape)
 	font-size: 1.5em;
 	color: #F70D22;
 	line-height: 1em;
+	padding: 40px;
 }
