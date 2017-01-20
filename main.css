@@ -1,7 +1,10 @@
 
 body {
+	display: flex-wrap;
 	background: #1919E8;
 }
+
+
 
 .blogname {
 	color: #efefef;
