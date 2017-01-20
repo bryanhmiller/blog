@@ -21,29 +21,36 @@ could be almost circular in shape)
 
 .one {
 	background: #F5B8D5;
-	font-family: 'Bungee Shade', cursive;	
+	font-family: 'Bungee Shade', cursive;
+	font-size: 0.65em;	
 }
 .one {
 	background: #F5B8D5;
 	font-family: 'Bungee Shade', cursive;	
+	font-size: 0.65em;
 }
 
 
 .two {
 	background: #D0F5B8;
 	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 1.2em;
 }
 
 .three {
 	background: #D0B8F5;
 	font-family: 'Abril Fatface', cursive;
+	font-size: 0.9em;
 }
 
 .four {
 	background: #B8E9F5;
 	font-family: 'Vampiro One', cursive;
+	font-size: 0.95em;
 }
+
 .five {
 	background: #B8B8F5;
 	font-family: 'Shadows Into Light', cursive;
+	font-size: 1.5em;
 }
