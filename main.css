@@ -1,8 +1,11 @@
-font-family: 'Bungee Shade', cursive;
-font-family: 'Gloria Hallelujah', cursive;
-font-family: 'Abril Fatface', cursive;
-font-family: 'Vampiro One', cursive;
-font-family: 'Shadows Into Light', cursive;
+
+.blogname {
+	background: #efefef;
+	color: #1919E8;
+	text-align: center;
+}
+
+
 
 /*
 A different background color.
@@ -15,17 +18,32 @@ Each should have a border, but with rounded corners of different size
 (e.g. one article could have barely rounded borders, but the next one 
 could be almost circular in shape)
 */
-.one {
 
+.one {
+	background: #F5B8D5;
+	font-family: 'Bungee Shade', cursive;	
+}
+.one {
+	background: #F5B8D5;
+	font-family: 'Bungee Shade', cursive;	
 }
 
-.two {
 
+.two {
+	background: #D0F5B8;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 
 .three {
-
+	background: #D0B8F5;
+	font-family: 'Abril Fatface', cursive;
 }
 
-.four {}
-.five {}
+.four {
+	background: #B8E9F5;
+	font-family: 'Vampiro One', cursive;
+}
+.five {
+	background: #B8B8F5;
+	font-family: 'Shadows Into Light', cursive;
+}
